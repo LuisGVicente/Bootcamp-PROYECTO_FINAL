@@ -8,11 +8,22 @@ In the project directory, you can run:
 
 ### `npm start`
 
+1. The APP:
+
+In the terminal, from maleteo-final-project: npm start
+
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000/inicio](http://localhost:3000/inicio) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+2. The local server:
+
+In the terminal, from maleteo-login: npm start
+
+Runs the app in the development mode.\
+Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
 ### `npm test`
 
