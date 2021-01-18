@@ -1,0 +1,12 @@
+1. Por qué el nav bar no se me queda arriba? Lo hace con position fixed top 5% pero entonces no puedo usar el form
+2. Cómo centro el botón?
+3. Darle persistencia a los contextos
+
+-Poner constantes en un .env?
+-Cambiar ruta de servidor
+https://meleteo.herokuapp.com/ 
+
+-Probar backend Dario
+
+-Posible solución a la persistencia de datos del context:
+https://blog.karmapulse.com/crea-cache-con-react-context/

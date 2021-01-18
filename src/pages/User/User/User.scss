@@ -1,0 +1,25 @@
+
+.c-user{
+
+    &__header{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    &__info{
+        margin-top: 12%;
+        border-bottom-color: rgb(211, 205, 205);
+        border-bottom-style:double ;
+        border-bottom-width: .5px;
+    }
+
+    &__link{
+        text-decoration: none;
+        color: black;
+    }
+
+    &__img{
+        width: 25%;
+        border-radius: 10px;
+    }
+}

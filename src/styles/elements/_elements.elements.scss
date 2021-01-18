@@ -1,0 +1,31 @@
+.img-user{
+
+    // &__perfil{
+    //     width: 25%;
+    //     border-radius: 10px;
+    // }
+
+    &__locker{
+        width: 25%;
+        border-radius: 10px;
+        position: relative;
+        left: 7%;
+        vertical-align: top;
+    }
+    
+    
+}.perfil {
+    display:inline-block;
+}
+
+.media {
+    &__container {
+     
+      justify-content: space-between;
+      align-items: center;
+    }
+    &__btn{
+      width: 48%;
+      margin: 5%;
+    }
+}

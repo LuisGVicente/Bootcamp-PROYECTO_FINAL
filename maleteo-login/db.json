@@ -1,0 +1,255 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "name": "Luis Garcia",
+      "email": "luis@luis.com",
+      "password": "123456",
+      "age": "1961-05-05",
+      "subscription": true,
+      "image": "https://cdn130.picsart.com/334346042039201.jpg?type=webp&to=crop&r=256",
+      "booking": false
+    },
+    {
+      "email": "ellen@ellen.com",
+      "name": "Elliot",
+      "image": "https://pbs.twimg.com/profile_images/421440762132197376/SU20H_Nd.jpeg",
+      "age": "1999-04-04",
+      "subscription": true,
+      "password": "123456",
+      "id": "OS9SCXn"
+    },
+    {
+      "email": "dark@dark.com",
+      "name": "Chocolate",
+      "image": "https://ih1.redbubble.net/image.1469095639.0739/flat,128x128,075,t-pad,128x128,f8f8f8.u1.jpg",
+      "age": "1960-02-02",
+      "subscription": true,
+      "password": "123456",
+      "id": "OlHO1Sc"
+    },
+    {
+      "email": "dani@dani.com",
+      "name": "Dani Garcia",
+      "image": "https://cdn131.picsart.com/318418668299201.jpg?type=webp&to=crop&r=256\\",
+      "age": "1996-10-16",
+      "subscription": true,
+      "password": "123456",
+      "id": "p2WYegp"
+    },
+    {
+      "email": "jim@jim.com",
+      "name": "Jim",
+      "image": "https://pbs.twimg.com/profile_images/3732649830/6b3766a33d5840263cffecb941b26fa2.jpeg",
+      "age": "1980-02-02",
+      "subscription": true,
+      "password": "123456",
+      "id": "UhI5D28"
+    }
+  ],
+  "lockers": [
+    {
+      "id": "1",
+      "available_Space": "10",
+      "description": "Precioso zulo para secuestros reconvertido en hotel de lujo para maletas",
+      "endTime": "18:00",
+      "image": "https://www.redaccionmedica.com/images/destacados/denuncian-con-ironia-el-zulo-ideal-para-cortas-estancias-para-medicos-3934.jpg",
+      "name": "Zulo",
+      "location": "Calle San Isidro Labrador 10. Madrid. 28005",
+      "locker_TypeA": "casa",
+      "locker_TypeB": "habitacion",
+      "startTime": "08:00",
+      "user": "Luis Garcia",
+      "email": "luis@luis.com",
+      "lat": 40.410642,
+      "lng": -3.712631
+    },
+    {
+      "id": "2",
+      "available_Space": "5",
+      "description": "Prometemos guardarla hasta el fin del Mundo",
+      "endTime": "10:15",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3_cX84zipxT1v4y0vaHq1WMJ3UTpQ0wMn9g&usqp=CAU",
+      "name": "Cueva de Alí Babá",
+      "location": "Calle Mayor, 55, Madrid",
+      "locker_TypeA": "establecimiento",
+      "locker_TypeB": "buhardilla",
+      "startTime": "10:00",
+      "email": "ellen@ellen.com",
+      "user": "Elliot",
+      "lat": 40.41576,
+      "lng": -3.709488
+    },
+    {
+      "image": "https://es.web.img2.acsta.net/medias/nmedia/18/66/11/60/18937543.jpg",
+      "name": "Bonanza",
+      "location": "Calle de San Roque, 12, 28004 Madrid",
+      "locker_TypeA": "casa",
+      "locker_TypeB": "habitacion",
+      "startTime": "10:10",
+      "endTime": "20:20",
+      "available_Space": "10",
+      "description": "Un espacio nacido después de los dolores que es casa-museo de Su Majestad el Condemor",
+      "user": "Chocolate",
+      "email": "dark@dark.com",
+      "id": "Y_1gwy5",
+      "lat": 40.422687,
+      "lng": -3.704267
+    },
+    {
+      "image": "https://cdn-image.pf.dena.com/15941461ac26eb8a69606aadc44d6fe5d4da785b/1/7881e961-67a2-3fb0-9f9f-4a35b7f42282.png",
+      "name": "Casa Krahe",
+      "location": "Calle del Pez, 20. Madrid",
+      "locker_TypeA": "hotel",
+      "locker_TypeB": "garaje",
+      "startTime": "00:00",
+      "endTime": "00:00",
+      "available_Space": "1",
+      "description": "Antigua casa de Javier Krahe convertida en hotal. Es mentira. Hombre blanco hablar con lengua de serpiente",
+      "user": "Chocolate",
+      "email": "dark@dark.com",
+      "id": "tNOw-gJ",
+      "lat": 40.424043,
+      "lng": -3.705063
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/378800000563445789/00bbf1decf77ec364e77e101a2db9dee_400x400.jpeg",
+      "name": "Guarida del Mal",
+      "location": "Cava Baja, 20, Madrid",
+      "locker_TypeA": "casa",
+      "locker_TypeB": "habitacion",
+      "startTime": "00:00",
+      "endTime": "08:00",
+      "available_Space": "5",
+      "description": "Cuidamos que tus maletas no se quemen en el infierno",
+      "user": "Elliot",
+      "email": "ellen@ellen.com",
+      "id": "tLeXJy2",
+      "lat": 40.412794,
+      "lng": -3.708649
+    },
+    {
+      "image": "https://www.larepublica.ec/wp-content/uploads/2017/10/Hotel-California-678x381.jpg",
+      "name": "Hotel California",
+      "location": "Calle Alcalá, 21, Madrid",
+      "locker_TypeA": "hotel",
+      "locker_TypeB": "hall",
+      "startTime": "02:00",
+      "endTime": "18:00",
+      "available_Space": "2",
+      "description": "Such a loving place, such a loving place. Los Eagles son un peñazo así que tus maletas sólo escucharán buena música",
+      "user": "Elliot",
+      "email": "ellen@ellen.com",
+      "id": "Fnlzx_U",
+      "lat": 40.418156,
+      "lng": -3.699291
+    },
+    {
+      "image": "https://www.xgn.nl/images/articles/2020/202005/_970x545_crop_center-center_82_line/garaje-gta-v-online.f1589983217.jpg",
+      "name": "Delicioso Garaje Mugriento",
+      "location": "Calle Preciados, 21, Madrid",
+      "locker_TypeA": "casa",
+      "locker_TypeB": "garaje",
+      "startTime": "15:00",
+      "endTime": "03:00",
+      "available_Space": "25",
+      "description": "Todo es cuestión de actitud. Si quieres que sea un garaje mugriento, lo será. Si quieres que sea delicioso, lo será. No dejes que la verdad estropee una bonita historia",
+      "user": "Elliot",
+      "email": "ellen@ellen.com",
+      "id": "vBGkFXW",
+      "lat": 40.419195,
+      "lng": -3.705243
+    },
+    {
+      "image": "https://www.hrs.com/en/media/image/6a/e6/b9/Casa_Campo_De_Fiori-Rom-Aussenansicht-28-39272_600x600.jpg",
+      "name": "El Campeller",
+      "location": "Gran Via, 10, Madrid",
+      "locker_TypeA": "casa",
+      "locker_TypeB": "trastero",
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "available_Space": "6",
+      "description": "Preciosa casa de campo, tranquila y ecológica en mitad del centro de Madrid",
+      "user": "Dani Garcia",
+      "email": "dani@dani.com",
+      "id": "mBmeahM",
+      "lat": 40.417195,
+      "lng": -3.785243
+    }
+  ],
+  "booking": [
+    {
+      "dropOff": "2021-01-06T23:07",
+      "pickUp": "2021-01-08T23:07",
+      "bags": "2",
+      "lockerID": "tNOw-gJ",
+      "userID": "OS9SCXn",
+      "guardianID": "OlHO1Sc",
+      "confirmed": false,
+      "days": 2,
+      "rate": 22,
+      "id": 2
+    },
+    {
+      "dropOff": "2021-01-07T13:50",
+      "pickUp": "2021-01-07T13:50",
+      "bags": "3",
+      "lockerID": "vBGkFXW",
+      "userID": "OS9SCXn",
+      "guardianID": "OS9SCXn",
+      "confirmed": false,
+      "days": 0,
+      "rate": 20,
+      "id": 3
+    },
+    {
+      "email": "dani@dani.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "email": "dani@dani.com",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "email": "dani@dani.com",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "email": "dani@dani.com",
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "email": "dani@dani.com",
+      "password": "123456",
+      "id": 8
+    },
+    {
+      "dropOff": "2021-01-06T15:37",
+      "pickUp": "2021-01-10T15:37",
+      "bags": "4",
+      "lockerID": "tLeXJy2",
+      "userID": "p2WYegp",
+      "guardianID": "OS9SCXn",
+      "confirmed": false,
+      "days": 4,
+      "rate": 74,
+      "id": 9
+    },
+    {
+      "dropOff": "2021-01-07T17:52",
+      "pickUp": "2021-01-09T17:52",
+      "bags": "2",
+      "lockerID": "vBGkFXW",
+      "userID": "UhI5D28",
+      "guardianID": "OS9SCXn",
+      "confirmed": false,
+      "days": 2,
+      "rate": 22,
+      "id": 10
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+
+.messageBox {
+  background: #F3F3F3;
+  border-radius: 5px;
+  padding: 5px 20px;
+  color: white;
+  display: inline-block;
+  max-width: 80%;
+}
+
+.messageText {
+  width: 100%;
+  letter-spacing: 0;
+  float: left;
+  font-size: 9pt;
+  word-wrap: break-word;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.messageText img {
+  vertical-align: middle;
+}
+
+.messageContainer {
+  display: flex;
+  padding: 0 5%;
+  margin-top: 3px;
+  
+}
+
+.sentText {
+  display: flex;
+  align-items: center;
+  font-family: Helvetica;
+  color: #828282;
+  letter-spacing: 0.3px;
+  font-size: 13px;
+}
+
+.pl-10 {
+  margin: 5px;
+}
+
+.pr-10 {
+  padding-right: 10px;
+}
+
+.justifyStart {
+  justify-content: flex-start;
+}
+
+.justifyEnd {
+  justify-content: flex-end;
+  
+}
+
+.colorWhite {
+  color: white;
+}
+
+.colorDark {
+  color: black;
+}
+
+.backgroundBlue {
+  background: rgb(246, 143, 36) ;
+  
+}
+
+.backgroundLight {
+  background: #F3F3F3;
+}

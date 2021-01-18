@@ -1,0 +1,15 @@
+.textos {
+    font-size: 1rem;
+    font-family: "Noto Sans", sans-serif;
+      &__grey {
+        color: rgb(148, 145, 145);
+        font-size: .8rem;
+        font-family: "Noto Sans", sans-serif;
+      }
+  
+}
+.titulo {
+  margin-top: 10%;
+  padding-right: 20%;
+}
+
